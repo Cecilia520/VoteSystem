@@ -55,4 +55,4 @@
 
 ### **疑难解决**
 
-[疑难解决](https://github.com/bxm0927/canvas-special)
+[http://blog.csdn.net/cecilia620/article/details/77199580](http://blog.csdn.net/cecilia620/article/details/77199580)
